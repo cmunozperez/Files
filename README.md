@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>Your Page Title</title>
     <meta name="google-site-verification" content="kvzOsre5-esVCFqdTvuXbB84rcTUbXXys_cEXSqkPgI" />
   </head>
 <body>
